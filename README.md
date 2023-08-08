@@ -8,10 +8,11 @@ This repository contains a set of Jupyter notebooks for protein analysis. Each n
 
 - `PLDDT.ipynb`: 
 - `PEA.ipynb`: 
-- `PCA-best.ipynb`: 
+- `PCA.ipynb`: 
 - `Out_MEMB.ipynb`: 
 - `contact-map-pdb.ipynb`: 
 - `Clustering.ipynb`:
+-  `RMSD.ipynb`:
   
 ## Dependencies
 
