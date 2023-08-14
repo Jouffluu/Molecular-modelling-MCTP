@@ -9,7 +9,7 @@ This repository contains a set of Jupyter notebooks for protein analysis. Each n
 - `PLDDT.ipynb`: 
 - `PEA.ipynb`: 
 - `PCA.ipynb`: 
-- `contact-map-pdb.ipynb`: 
+- `contact-map-pdb.ipynb`: The notebook utilizes Protein Data Bank (PDB) files to generate contact maps for specified monomers and dimers. The generated plots include distance arrays, and each plot is labeled with the corresponding model name.
 - `Clustering.ipynb`:
 -  `RMSD.ipynb`:
   
