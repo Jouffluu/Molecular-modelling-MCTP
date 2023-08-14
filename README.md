@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Data
 
-The data used in these notebooks is hosted on Zenodo. You can download it from the following link: [Zenodo link]
+The data used in these notebooks is hosted on Zenodo. You can download it from the following link: (https://zenodo.org/deposit/8190073)
 
 ## Usage
 
